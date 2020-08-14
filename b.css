@@ -1,0 +1,39 @@
+
+body{
+    margin: 0px;
+    padding: 0px; 
+    background-image: url(ab.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.form{
+    margin-top: 200px;
+    margin-bottom: 230px;
+    margin-left: 450px;
+    margin-right: 650px;
+    height: 110px;
+    width: 500px;
+    background-color: black;
+    border-radius: 10px;
+    opacity: 0.8;
+    
+}
+.form form input{
+    height: 30px;
+    width: 320px;
+    margin: 40px;
+    border-radius: 10px;
+       
+}
+.form form button{
+    height: 38px;
+    width: 80px;
+    margin-left: -25px;
+    border-radius: 10px;
+    background-color: blue;
+    
+}
+
+
+
